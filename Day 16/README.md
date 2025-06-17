@@ -15,9 +15,6 @@ This is part of Day 15+ of the App Brewery Python Bootcamp.
 - Generates machine report
 - Turns off with `off` command
 
-## 📸 Screenshots
-(Add your terminal screenshots here in the `/screenshots` folder)
-
 ## 🛠 How to Run
 ```bash
 python coffee_machine.py
@@ -27,4 +24,4 @@ python coffee_machine.py
 This project is based on Day 15 of [The Complete Python Bootcamp by App Brewery](https://www.udemy.com/course/100-days-of-code/).
 
 ## 🙋‍♂️ Author
-- [Your Name](https://github.com/yourusername)
+- [Rudransh Tanwar](https://github.com/rudranshstanwar)
